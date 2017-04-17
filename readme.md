@@ -10,3 +10,9 @@ Follow the steps to run React with Typescript
 ````
 npm install -g yarn
 ````
+
+##Install
+- Clone this project to a local folder eg:
+````
+git clone https://github.com/weeuwee/ReactTypescript.git projectname
+````
